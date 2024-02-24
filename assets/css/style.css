@@ -98,7 +98,7 @@ h2{
 }
 
 #transform-world{
-    background-image: url('/assets/images/woman-code.png');
+    background-image: url('../images/woman-code.png');
     height: 350px;
     width: 1340px;
     background-size: cover;
